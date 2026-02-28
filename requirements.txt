@@ -5,4 +5,5 @@ matplotlib
 seaborn
 joblib
 plotly
+google.generativeai
 altair==4.2.2
